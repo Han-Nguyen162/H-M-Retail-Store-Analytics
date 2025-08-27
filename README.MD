@@ -26,6 +26,7 @@ This dashboard supports data-driven retail strategy across three key areas:
 
 - **Data Source**  
   - [H&M Stores Dataset – Kaggle](https://www.kaggle.com/datasets/shivamb/hm-stores-dataset)  
+  - [H&M Retail Store Analytics Tableau] (https://github.com/Han-Nguyen162/H-M-Retail-Store-Analytics/releases/tag/release-2025-08)
 
 ---
 
