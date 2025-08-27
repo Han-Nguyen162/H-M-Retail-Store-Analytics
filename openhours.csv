@@ -1,0 +1,21 @@
+City,CountryCode,StoreCount,AvgWeekendHoursPerStore
+Madina,SA,3,29.33
+Mecca,SA,2,29.21
+Taif,SA,2,28.75
+Majmaah,SA,1,28.00
+Alexandria,EG,2,27.83
+Mugla,TR,1,27.83
+Dammam,SA,4,27.75
+Jeddah,SA,7,27.00
+"Al Wakra",QA,1,27.00
+Jubail,SA,1,27.00
+Abha,SA,1,27.00
+"Al Rass",SA,1,27.00
+"Al Kharj",SA,1,27.00
+Yanbu,SA,1,27.00
+Hofuf,SA,2,27.00
+Hail,SA,1,27.00
+Tabuk,SA,2,27.00
+"Khamies Mushayt",SA,1,27.00
+Jizan,SA,1,27.00
+Sharjah,AE,1,26.92
