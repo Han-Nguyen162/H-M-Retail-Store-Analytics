@@ -1,4 +1,4 @@
-# 🛍️ H&M Global Retail Store Intelligence Dashboard  
+# 🛍️ H&M Global Retail Store Analytics Dashboard  
 
 An interactive **business intelligence dashboard** built with **SQL** and **Tableau**, analyzing **4,000+ H&M stores worldwide**.  
 This project combines **data engineering, geospatial queries, and visual storytelling** to uncover insights in **store formats, operations, and clustering trends**.  
